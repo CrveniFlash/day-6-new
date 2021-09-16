@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .height-85 {
+        height: 85vh;
+    }
+    .height-80 {
+        height: 80vh;
+    }
+    .height-75 {
+        height: 75vh;
+    }
+    .height-70 {
+        height: 70vh;
+    }
+    .height-65 {
+        height: 65vh;
+    }
+}
